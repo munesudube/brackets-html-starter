@@ -1,8 +1,9 @@
 {
     "name": "brackets-html-starter",
     "title": "Html Starter",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Easily insert an html starter template",
+    "homepage": "https://github.com/munesudube/brackets-html-starter",
     "author": "Munesu Tembo Dube",
     "license": "MIT",
     "engines": {
